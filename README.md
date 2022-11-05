@@ -38,7 +38,7 @@ A QR Code component created using HTML5 and CSS3.
 
 ### What I learned
 
-- How a vertically centre the elements.
+- How to vertically centre the elements.
 
 ```css
 body {
