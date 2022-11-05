@@ -34,8 +34,6 @@ A QR Code component created using HTML5 and CSS3.
 - Flexbox
 - Web-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 - How to vertically centre the elements.
